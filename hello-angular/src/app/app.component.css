@@ -1,3 +1,5 @@
-.font-gue{
-  font-size: 30px;
+@import "../../node_modules/bootstrap/dist/css/bootstrap.min.css";
+
+a{
+  text-decoration: none!important;
 }
